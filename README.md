@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yusufkenaroglu
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning C++, Swift and Java
-- 💞️ I’m looking to collaborate on the use of AI in embedded systems
-- 📫 How to reach me yusuf.kenaroglu@mail.utoronto.ca
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning RISC-V, COBOL, and IBM HLASM
+- 📫 How to reach me: yusuf.kenaroglu@mail.utoronto.ca
 
 <!---
 yusufkenaroglu/yusufkenaroglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
