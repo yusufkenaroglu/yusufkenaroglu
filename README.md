@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yusufkenaroglu
 - 👀 I’m interested in embedded systems and low level programming
-- 🌱 I’m currently learning RISC-V, COBOL, and IBM HLASM
+- 🌱 I’m currently learning RISC-V, and IBM HLASM
 - 📫 How to reach me: yusuf.kenaroglu@mail.utoronto.ca
 
 <!---
